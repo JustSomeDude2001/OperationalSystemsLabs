@@ -1,0 +1,1000 @@
+  233  ls
+  234  conda activate diplomacy
+  235  cd ~
+  236  ls
+  237  cd miniconda3/
+  238  ls
+  239  cd bin
+  240  ls
+  241  cd ~
+  242  export PATH="$PATH:/home/justsomedude/miniconda3/bin"
+  243  ls
+  244  conda
+  245  cd InnoStudies/diplomacy_searchbot/
+  246  ls
+  247  conda activate diploma
+  248  conda activate diplomacy
+  249  conda init
+  250  ls
+  251  cd InnoStudies/diplomacy_searchbot/
+  252  conda activate diplomacy
+  253  ls
+  254  make
+  255  make test_fast
+  256  pip install -e ./thirdparty/github/fairinternal/postman/postman/
+  257  ./miniconda3/bin/conda activate diplomacy
+  258  ./miniconda3/bin/conda init
+  259  ./miniconda3/bin/conda activate diplomacy
+  260  ./miniconda3/bin/conda init bash
+  261  export PATH="$PATH:/home/justsomedude/miniconda3/bin"
+  262  conda
+  263  conda init
+  264  conda activate diplomacy
+  265  cd InnoStudies/diplomacy_searchbot/
+  266  pip install ./thirdparty/github/fairinternal/postman/postman/
+  267  make test_fast
+  268  pip install -h
+  269  pip install ./thirdparty/github/fairinternal/postman/third_party/grpc/
+  270  pip install grpcio
+  271  pip install grpc
+  272  pip search grpcio
+  273  cd ~
+  274  cd Games/starsector/
+  275  cd mods/
+  276  unzip -l *
+  277  unzip -l *.zip
+  278  ls
+  279  unzip '*.zip'
+  280  cd ..
+  281  ./starsector.sh 
+  282  cd Games/starsector/
+  283  ./starsector.sh 
+  284  cd ..
+  285  sudo apt-get install unciv
+  286  apt search unciv
+  287  apt list unciv
+  288  ls
+  289  apt list civ
+  290  apt search civ
+  291  0ad
+  292  cd Games/starsector/
+  293  ./starsector.sh 
+  294  cd ~
+  295  sudo apt-get install vscode
+  296  apt search visual-studio
+  297  snap changes
+  298  sudo snap abort 5
+  299  sudo apt-get install code
+  300  apt show moo
+  301  apt search moo
+  302  snap
+  303  snap show
+  304  snap --help
+  305  snap list
+  306  snap abort
+  307  snap info
+  308  snap tasks
+  309  snap watch 
+  310  snap tasks
+  311  snap changes 
+  312  snap abort 5
+  313  snap abort 6
+  314  snap abort 5
+  315  snap changes
+  316  snap install code
+  317  sudo snap install --classic code
+  318  vscode
+  319  nvidia-smi
+  320  cuda
+  321  power
+  322  sudo
+  323  sudo apt-get install torrent
+  324  sudo apt-get install transmission
+  325  transmission-gtk 
+  326  nvidia-settings 
+  327  nvidia-settings --help
+  328  nvidia-settings -q all
+  329  nvidia-settings -q all | grep -C 10 -i powermizer
+  330  nvidia-settings -q GpuPowerMizerMode
+  331  nvidia-settings -a "[gpu:0]/GpuPowerMizerMode=0"
+  332  cd Downloads/Stellaris\ -\ GOG\ Linux/
+  333  ls
+  334  ./stellaris_3_0_3_47193.sh
+  335  sudo ./stellaris_3_0_3_47193.sh
+  336  cd dlcs/
+  337  chmod +x '*.sh'
+  338  chmod +x *
+  339  ./stellaris_ancient_relics_3_0_3_47193.sh 
+  340  ./stellaris_ancient_relics_3_0_3_47193.sh -h
+  341  ./stellaris_ancient_relics_3_0_3_47193.sh --help
+  342  ./stellaris_ancient_relics_3_0_3_47193.sh --yes
+  343  ./stellaris_ancient_relics_3_0_3_47193.sh -y
+  344  ./stellaris_ancient_relics_3_0_3_47193.sh --help
+  345  ./stellaris_ancient_relics_3_0_3_47193.sh 
+  346  ls
+  347  cd ..
+  348  ls
+  349  cd 'GOG Games'/
+  350  sudo cd 'GOG Games'/
+  351  cd Downloads/Stellaris\ -\ GOG\ Linux/
+  352  ls
+  353  ./stellaris_3_0_3_47193.sh 
+  354  sudo apt-get install canberra-gtk-module
+  355  sudo apt install libcanberra-gtk-module 
+  356  ls
+  357  ./stellaris_3_0_3_47193.sh 
+  358  apt upgrade
+  359  sudo apt upgrade
+  360  sudo apt-get install gcc
+  361  sudo apt-get install language-pack-en-base
+  362  sudo dpkg-reconfigure locales
+  363  locale -a
+  364  export LC_ALL="en.utf-8"
+  365  echo $LC_ALL
+  366  ./stellaris_3_0_3_47193.sh 
+  367  ls
+  368  processes
+  369  ps aux
+  370  ps aug | grep stellaris
+  371  ps aux | grep stellaris
+  372  ps aux
+  373  ps aux | grep stellaris
+  374  ps aux | grep GOG
+  375  ps
+  376  ls
+  377  cd dlcs/
+  378  find
+  379  find -name "*.sh" -exec bash "{}" ";"
+  380  ls
+  381  cd ..
+  382  cd .
+  383  .
+  384  cd ..
+  385  cd Desktop/
+  386  ls
+  387  ./gog_com-Stellaris_1.desktop
+  388  sudo bash ./gog_com-Stellaris_1.desktop
+  389  sudo ./gog_com-Stellaris_1.desktop
+  390  ls
+  391  rm gog_com-Stellaris_1.desktop 
+  392  ls
+  393  rm gog_com-Stellaris_1.desktop 
+  394  ls
+  395  cd ..
+  396  cd GOG\ Games/
+  397  ls
+  398  cd Stellaris/
+  399  ls
+  400  ./start.sh 
+  401  ls
+  402  cd ~
+  403  cd 'GOG Games'/
+  404  ls
+  405  sudo -i
+  406  ls
+  407  ls -all
+  408  nano
+  409  sed
+  410  ls
+  411  cd Stellaris
+  412  cd StellarisModInstallationDaemon/
+  413  ls
+  414  unzip 2496264461_rogue_maid_rogue_servitor_completely_remake.zip 
+  415  ls
+  416  rm -r *
+  417  undo
+  418  file
+  419  echo *
+  420  echo ls
+  421  ls | echo
+  422  mkdir test
+  423  ls | echo
+  424  ls
+  425  rm test
+  426  rm -r test
+  427  ls
+  428  unzip --help
+  429  ls -a;;
+  430  ls -all
+  431  cd .local
+  432  ls
+  433  cd share
+  434  ls
+  435  cd Paradox\ Interactive/
+  436  ls
+  437  cd Stellaris/
+  438  ls
+  439  cd ~
+  440  ls
+  441  cd GOG\ Games/
+  442  ls
+  443  cd Stellaris/
+  444  ls
+  445  cd ~
+  446  ~/.local/share/Paradox Interactive/Stellaris
+  447  ls
+  448  cd ~/.local/share/Paradox Interactive/Stellaris
+  449  ls
+  450  cd ~/.local/share/"Paradox Interactive"/Stellaris
+  451  ls
+  452  mkdir mod
+  453  ls
+  454  cd mod
+  455  ls
+  456  mv ~/Downloads/VariedServants .
+  457  ls
+  458  mv ./VariedServants ~/Downloads
+  459  cd ~/Downloads/
+  460  ls
+  461  cd ~/GOG\ Games/
+  462  cd Stellaris/
+  463  ls
+  464  mkdir mod
+  465  ls
+  466  mv ~/Downloads/VariedServants ./mod/
+  467  ls
+  468  cd mod
+  469  ls
+  470  mv VariedServants/ ~/Downloads/
+  471  ls
+  472  cd ~
+  473  ls -all
+  474  cd .paradoxlauncher/
+  475  ls
+  476  cd ..
+  477  cd .local
+  478  ls
+  479  cd share
+  480  ls
+  481  cd Paradox\ Interactive/
+  482  ls
+  483  cd Stellaris/
+  484  ls
+  485  cd mod
+  486  ls
+  487  mv ~/Downloads/VariedServants .
+  488  ls
+  489  cd Varied
+  490  cd VariedServants/
+  491  ls
+  492  nano descriptor.mod 
+  493  ls
+  494  nano descriptor.mod 
+  495  mv descriptor.mod ..
+  496  ls
+  497  cd ..
+  498  ls
+  499  rename
+  500  sudo apt show rename
+  501  .
+  502  rm -r VariedServants/
+  503  ls
+  504  rm descriptor.mod 
+  505  ls
+  506  cd ..
+  507  ls
+  508  cd mod
+  509  mv ~/Downloads/PotatoGraphics/ .
+  510  ls
+  511  cd PotatoGraphics/
+  512  ls
+  513  mv descriptor.mod ..
+  514  ls
+  515  cd ..
+  516  ls
+  517  nano descriptor.mod 
+  518  ls
+  519  rm descriptor.mod 
+  520  ls
+  521  mv ~/Downloads/RogueMaid/ .
+  522  ls
+  523  cd RogueMaid/
+  524  nano descriptor.mod 
+  525  ls
+  526  mv RogueMaid.mod ..
+  527  ls
+  528  cd ..
+  529  ls
+  530  cd Rodu
+  531  cd RogueMaid/
+  532  ls
+  533  cd ..
+  534  nano PotatoGraphics.mod 
+  535  ls
+  536  cd PotatoGraphics/
+  537  ls
+  538  nano steam\ desc.txt 
+  539  ls
+  540  cd ..
+  541  ls
+  542  mv PotatoGraphics 205149138
+  543  ls
+  544  nano PotatoGraphics.mod 
+  545  ls
+  546  rm PotatoGraphics.mod 
+  547  ls
+  548  nano 205149138
+  549  nano 205149138.mod 
+  550  ls
+  551  nano 205149138
+  552  nano 205149138.mod 
+  553  ls
+  554  cd 205149138/
+  555  ls
+  556  mv ../205149138.mod .
+  557  ls
+  558  mv 205149138.mod descriptor.mod
+  559  ls
+  560  cd ..
+  561  ls
+  562  cd 205149138/
+  563  nano descriptor.mod 
+  564  mv descriptor.mod ..
+  565  ls
+  566  cd ..
+  567  ls
+  568  mv descriptor.mod 205149138.mod
+  569  ls
+  570  nano 205149138.mod 
+  571  ls
+  572  nano 205149138.mod 
+  573  ls
+  574  nano Rogue
+  575  nano RogueMaid
+  576  nano RogueMaid.mod 
+  577  ls
+  578  cd ~
+  579  cd Desktop/
+  580  nano StartStellaris
+  581  ls
+  582  chmod +x StartStellaris.sh
+  583  ./StartStellaris.sh 
+  584  ls
+  585  ./StartStellaris.sh 
+  586  mv "zzextended synths.zip" 
+  587  mv "zzextended synths.zip" zzextendedsynths/
+  588  ls
+  589  cd zzextendedsynths/
+  590  ls
+  591  unzip zzextended\ synths.zip 
+  592  ls
+  593  rm zzextended\ synths.zip 
+  594  ls
+  595  mv descriptor.mod ../zzextendedsynths.mod
+  596  cd ..
+  597  ls
+  598  nano zzextendedsynths.mod 
+  599  ls
+  600  wine
+  601  sudo apt-get show wine-stable
+  602  sudo apt show wine-stable
+  603  nano MachineRobotExpansion
+  604  nano MachineRobotExpansion.mod 
+  605  nano AnimeRobotSpecies.mod 
+  606  nano Anime_robot_species.mod 
+  607  nano AnimeRobotSpecies.mod 
+  608  nano installCurrentMod.sh
+  609  ./installCurrentMod.sh
+  610  sudo ./installCurrentMod.sh
+  611  nano installCurrentMod.sh 
+  612  ./installCurrentMod.sh
+  613  nano installCurrentMod.sh 
+  614  chmod +x installCurrentMod.sh 
+  615  ./installCurrentMod.sh
+  616  nano installCurrentMod.sh 
+  617  ./installCurrentMod.sh
+  618  nano installCurrentMod.sh 
+  619  ls
+  620  cd ..
+  621  ls
+  622  cd StellarisModInstallationDaemon/
+  623  ls
+  624  nano installCurrentMod.sh 
+  625  ./installCurrentMod.sh 
+  626  nano installCurrentMod.sh 
+  627  ./installCurrentMod.sh 
+  628  ls
+  629  echo $
+  630  echo $USERNAME
+  631  nano installCurrentMod.sh 
+  632  ./installCurrentMod.sh 
+  633  nano installCurrentMod.sh 
+  634  ./installCurrentMod.sh 
+  635  nano OriginsExtended.mod 
+  636  nano installCurrentMod.sh 
+  637  ./installCurrentMod.sh 
+  638  nano OriginsExtended.mod 
+  639  nano installCurrentMod.sh 
+  640  ./installCurrentMod.sh 
+  641  nano OriginsExtended.mod 
+  642  nano installCurrentMod.sh 
+  643  ./installCurrentMod.sh 
+  644  nano OriginsExtended
+  645  nano OriginsExtended.mod 
+  646  nano installCurrentMod.sh 
+  647  nano installCurrentMod.sh 
+  648  ./installCurrentMod.sh 
+  649  nano OriginsExtended.mod 
+  650  nano installCurrentMod.sh 
+  651  ./installCurrentMod.sh 
+  652  nano installCurrentMod.sh 
+  653  ./installCurrentMod.sh 
+  654  ls
+  655  ./installCurrentMod.sh 
+  656  nano installCurrentMod.sh 
+  657  ./installCurrentMod.sh 
+  658  git init
+  659  ls
+  660  git push
+  661  git remote add atariML https://github.com/JustSomeDude2001/atariML.git
+  662  ls
+  663  git clone https://github.com/JustSomeDude2001/atariML.git
+  664  ls
+  665  git clone https://github.com/JustSomeDude2001/atariML.git
+  666  ls
+  667  cd atariML/
+  668  ls
+  669  pip install virtualenv
+  670  python
+  671  ls
+  672  python3
+  673  python
+  674  source /home/justsomedude/miniconda3/bin/activate
+  675  conda activate base
+  676  pip install gym
+  677  git config git.user
+  678  git config 
+  679  git config --get user
+  680  git config --get git.user
+  681  git config git.user="kim.yaroslavik@gmail.com"
+  682  git config --get git.user
+  683  git config --get git.name
+  684  git config git.name="kim.yaroslavik@gmail.com"
+  685  git config --get git.name
+  686  git config --get user.name
+  687  git config user.name="JustSomeDude2001"
+  688  git config --set user.name="JustSomeDude2001"
+  689  git config --global user.name="JustSomeDude2001"
+  690  git config --edit
+  691  git config --global user.name "JustSomeDude2001"
+  692  git config --global user.email "kim.yaroslavik@gmail.com"
+  693  source /home/justsomedude/miniconda3/bin/activate
+  694  conda activate base
+  695  rar
+  696  sudo apt-get install rar
+  697  sudo apt-get install unrar
+  698  unrar 
+  699  pip install gym[atari]
+  700  pip install opencv
+  701  pip install opencv-python
+  702  pip install --upgrade pip
+  703  pip install opencv-python
+  704  pip install gym[atari]
+  705  pip install atari-py
+  706  ls
+  707  cd InnoStudies/
+  708  ls
+  709  cd diplomacy_searchbot/
+  710  ls
+  711  conda activate diplomacy
+  712  pip install -e ./thirdparty/github/fairinternal/postman/postman/
+  713  pip install setuptools
+  714  conda deactivate
+  715  cd ..
+  716  cd .
+  717  cd ..
+  718  python -m atari_py.import_roms ./Downloads/
+  719  python -m atari_py.import_roms ./Downloads/ROMS
+  720  source /home/justsomedude/miniconda3/bin/activate
+  721  conda activate base
+  722  pip install gym[atari]
+  723  source /home/justsomedude/miniconda3/bin/activate
+  724  conda activate base
+  725  source /home/justsomedude/miniconda3/bin/activate
+  726  conda activate base
+  727  source /home/justsomedude/miniconda3/bin/activatecd /home/justsomedude/InnoStudies/atariML ; /usr/bin/env /home/justsomedude/miniconda3/bin/python /home/justsomedude/.vscode/extensions/ms-python.python-2021.5.926500501/pythonFiles/lib/python/debugpy/launcher 37239 -- /home/justsomedude/InnoStudies/atariML/breakout.py 
+  728  python train.py
+  729  python breakoutQLearning.py -train
+  730  python breakoutQLearning.py -train -g Breakout -d gpu
+  731  sudo /etc/init.d/alsa-utils restart
+  732  lsof | grep pcm
+  733  sudo /etc/init.d/pulse-audio restart
+  734  sudo /etc/init.d/alsa-utils restart
+  735  pulseaudio -k && sudo alsa force-reload
+  736  pip install pynput
+  737  pip install numpy
+  738  pip install cv2
+  739  pip install tensorflow
+  740  Breakout
+  741  source /home/justsomedude/miniconda3/bin/activate
+  742  conda activate diplomacy
+  743  conda deactivate
+  744  pip install tensorflow
+  745  python run_dqn.py 
+  746  source /home/justsomedude/miniconda3/bin/activate
+  747  conda activate diplomacy
+  748  conda deactivate
+  749  ./getid_linux
+  750  chmod +x getid_linux 
+  751  ./getid_linux
+  752  source /home/justsomedude/miniconda3/bin/activate
+  753  conda activate diplomacy
+  754  conda deactivate
+  755  python
+  756  python train.py
+  757  pip install tensorflow
+  758  python train.py
+  759  python3 train.py
+  760  pip install joblib
+  761  python3 train.py
+  762  pip install joblib
+  763  python
+  764  pip install joblib
+  765  python train.py
+  766  python
+  767  python train.py
+  768  source /home/justsomedude/miniconda3/bin/activate
+  769  conda activate diplomacy
+  770  conda deactivate diplomacy
+  771  conda deactivate 
+  772  ls
+  773  cd Chapter03
+  774  ls
+  775  python train.py
+  776  python train.py -g Breakout -d gpu
+  777  ls
+  778  cd Chapter03
+  779  python train.py
+  780  python train.py -t "Breakout"
+  781  mkdir ~/.mujoco/mujoco200
+  782  mkdir ~/.mujoco/
+  783  mkdir ~/.mujoco/mujoco200
+  784  unzip mujoco200_linux.zip 
+  785  cd mujoco200_linux/
+  786  mv * ~/.mujoco/mujoco200
+  787  cd ..
+  788  cd ~/Downloads/
+  789  ls
+  790  mv mjkey.txt ~/.mujoco/
+  791  python
+  792  pip3 install -U 'mujoco-py<2.1,>=2.0'
+  793  pip install glfw
+  794  pip install numpy
+  795  pip install Cython
+  796  pip install imageio
+  797  pip install cffi
+  798  pip install fasteners
+  799  pip3 install -U 'mujoco-py<2.1,>=2.0'
+  800  sudo apt install libosmesa6-dev libgl1-mesa-glx libglfw3
+  801  sudo ln -s /usr/lib/x86_64-linux-gnu/libGL.so.1 /usr/lib/x86_64-linux-gnu/libGL.so
+  802  pip3 install -U 'mujoco-py<2.1,>=2.0'
+  803  echo $MUJOCO_PY_MUJOCO_PATH
+  804  export MUJOCO_PY_MUJOCO_PATH="~/.mujoco/mujoco200"
+  805  echo $MUJOCO_PY_MUJOCO_PATH
+  806  export MUJOCO_PY_MJKEY_PATH="~/.mujoco/"
+  807  pip3 install -U 'mujoco-py<2.1,>=2.0'
+  808  pip uninstall mujoco-py
+  809  pip uninstall mujoco_py
+  810  pip uninstall mujoco
+  811  pip help
+  812  pip --no-cache-dir
+  813  pip3 install --no-cache-dir -U 'mujoco-pu<2.1,>=2.0'
+  814  pip3 install --no-cache-dir -U 'mujoco-py<2.1,>=2.0'
+  815  pip3 install --no-cache-dir -U 'mujoco-py<2.1,>'
+  816  pip3 install -U 'mujoco-py<2.1,>'
+  817  ~/.mujoco/mujoco200
+  818  cd ~/.mujoco/mujoco200
+  819  ls
+  820  mkdir mujoco200_linux
+  821  mv bin mujoco200_linux/
+  822  mv doc mujoco200_linux/
+  823  mv include/ mujoco200_linux/
+  824  mv model mujoco200_linux/
+  825  mv sample mujoco200_linux/
+  826  ls
+  827  pip3 install -U 'mujoco-py<2.1,>=2.0'
+  828  ls
+  829  cd mujoco200_linux/
+  830  ls
+  831  cd bin
+  832  ls
+  833  cd ..
+  834  ls
+  835  cd InnoStudies/
+  836  git clone https://github.com/kevinchn/atari-dqn
+  837  python
+  838  cd atari
+  839  cd atari-dqn/
+  840  ls
+  841  python dqn.py
+  842  cd ..
+  843  git clone https://github.com/PacktPublishing/Python-Reinforcement-Learning-Projects
+  844  ls
+  845  cd Python-Reinforcement-Learning-Projects/
+  846  ls
+  847  pip install requirements.txt 
+  848  pip install  requirements.txt 
+  849  pip install -r requirements.txt 
+  850  pip install tensorflow
+  851  pip install mujoco-py
+  852  pip install mujoco
+  853  pip uninstall mujoco-py
+  854  ls
+  855  git clone https://github.com/openai/mujoco-py/
+  856  cd mujoco-py/
+  857  make
+  858  pip install -e
+  859  ls
+  860  make
+  861  ls
+  862  python setup.py 
+  863  python setup.py install
+  864  pip uninstall mujoco-py
+  865  python 
+  866  pip uninstall mujoco-py
+  867  pip3 install -U 'mujoco-py<2.1,>=2.0'
+  868  source /home/justsomedude/miniconda3/bin/activate
+  869  conda activate diplomacy
+  870  conda deactivate
+  871  python train.py -g demo -d cpu
+  872  cd Chapter0
+  873  cd Chapter03
+  874  python train.py -g demo -d cpu
+  875  python train.py -t "Walker2d"
+  876  python train.py -t "Ant"
+  877  python train.py -t "CartPole"
+  878  pip install tensorflow==1.5
+  879  pip install tensorflow==1.15.5
+  880  python train.py -t "CartPole"
+  881  python test.py -t "CartPole"
+  882  python train.py -t "Breakout"
+  883  python test.py -t "Acrobot"
+  884  python train.py -t "Acrobot"
+  885  python test.py -t "Acrobot"
+  886  python test.py -t "Breakout-ram"
+  887  python train.py -t "BipedalWalker"
+  888  python train.py -t "LunarLander"
+  889  python train.py -t "CarRacing"
+  890  source /home/justsomedude/miniconda3/bin/activate
+  891  conda activate diplomacy
+  892  conda deactivate
+  893  python dqn.py
+  894  sudo apt-get install ffmpeg
+  895  sudo apt-get install libav-tools
+  896  python dqn.py
+  897  python dqn.py 
+  898  ls
+  899  source /home/justsomedude/miniconda3/bin/activate
+  900  conda activate diplomacy
+  901  conda deactivate
+  902  python train_atari.py 
+  903  python train_atari.py --load-checkpoint-file results/checkpoint_dqn_nature.pth
+  904  python train_atari.py
+  905  python train_atari.py --load-checkpoint-file results/checkpoint_dqn_nature.pth
+  906  python train_atari.py --load-checkpoint-file checkpoint.pth
+  907  ./installCurrentMod.sh 
+  908  sf
+  909  fs
+  910  ls
+  911  ps
+  912  top
+  913  ps
+  914  ps -all
+  915  ./installCurrentMod.sh 
+  916  pip install pyrogram
+  917  cd Downloads/
+  918  cd everyone-master/
+  919  python ./main.py 
+  920  pip install TgCrypto
+  921  python ./main.py 
+  922  wine
+  923  sudo apt-get install wine-stable 
+  924  install-snap discord
+  925  install-snap
+  926  sudo apt-get install discord
+  927  snap
+  928  snap install discord
+  929  snap
+  930  snap list
+  931  snap tasks
+  932  snap get
+  933  snap changes
+  934  sudo snap abort 12
+  935  snap install discord
+  936  sudo apt-get install winetricks
+  937  WINEPREFIX=~/Games/BYOND
+  938  WINEARCH=win32
+  939  WINEPREFIX=~/Games/BYOND wineboot
+  940  WINEPREFIX=~/Games/BYOND winetricks wsh56 wsh57 jscript mfc42 vcrun6
+  941  WINEPREFIX=~/Games/BYOND winetricks ie7
+  942  WINEPREFIX=~/Games/BYOND winetricks ie8
+  943  cd Downloads/
+  944  ls
+  945  WINEARCH=win32 WINEPREFIX=~/Games/BYOND wine 513.1524_byond.exe
+  946  WINEARCH=win64
+  947  WINEARCH=win32 WINEPREFIX=~/Games/BYOND wine 513.1524_byond.exe
+  948  WINEARCH=win64 WINEPREFIX=~/Games/BYOND wine 513.1524_byond.exe
+  949  WINEARCH=win64 WINEPREFIX=~/Games/BYOND wine ./513.1524_byond.exe
+  950  winetricks
+  951  cd ..
+  952  ls
+  953  cd Desktop/
+  954  git clone https://github.com/Zero-Bits/ss13.sh.git
+  955  ls
+  956  curl https://raw.githubusercontent.com/Zero-Bits/ss13.sh/master/ss13.sh | bash
+  957  ping
+  958  ping 8.8.8.8
+  959  winetricks
+  960  wine 
+  961  winetricks
+  962  winetricks ie9
+  963  winetricks install
+  964  wine
+  965  cd Downloads/
+  966  sudo apt-get install tar
+  967  sudo apt upgrade
+  968  zst
+  969  unzstd Civilization.VI.incl.DLC.v1.0.11.16.x64.Linux.tar.zst 
+  970  unzip ./Civili
+  971  ls
+  972  unzip Civilization.VI.incl.DLC.v1.0.11.16.x64.Linux.tar
+  973  untar
+  974  tar -xf Civilization.VI.incl.DLC.v1.0.11.16.x64.Linux.tar
+  975  ls
+  976  cd Civ
+  977  cd Sid\ Meier\'s\ Civilization\ VI/
+  978  ls
+  979  exec ./Civ6sub
+  980  ls
+  981  exec
+  982  exec ./Civ6Sub
+  983  cd Downloads/
+  984  cd Sid\ Meier\'s\ Civilization\ VI/
+  985  sudo exec ./Civ6Sub
+  986  sudo ./Civ6Sub
+  987  lsb_release -a
+  988  apt-get install oracle
+  989  sudo apt-get install oracle_vbox
+  990  sudo apt-get install oracle
+  991  sudo apt find oracle
+  992  sudo apt-get update
+  993  sudo apt-get install virtualbox-6.1
+  994  sudo apt-get install virtualbox
+  995  chmod prison_architect_the_pen_6447_48132.sh +x
+  996  chmod +x prison_architect_the_pen_6447_48132.sh
+  997  chmod +x *
+  998  exec ./*
+  999  sudo apt-get install OBS
+ 1000  sudo apt-get install open
+ 1001  sudo apt install ffmpeg
+ 1002  sudo apt install v4l2loopback-dkms
+ 1003  chmod +x *.sh
+ 1004  *
+ 1005  run
+ 1006  shell
+ 1007  exec
+ 1008  exec *
+ 1009  install-snap vlc
+ 1010  sudo apt-get install vls
+ 1011  sudo apt-get install vlc
+ 1012  touch backup.txt
+ 1013  touch Password.txt
+ 1014  apt-get find openttd
+ 1015  apt-get search openttd
+ 1016  apt-get install openttd
+ 1017  sudo apt-get install openttd
+ 1018  openttd
+ 1019  sudo apt-get update openttd
+ 1020  sudo apt-get update
+ 1021  apt show
+ 1022  apt show openttd
+ 1023  apt find
+ 1024  apt search
+ 1025  apt search openttd
+ 1026  apt-get search
+ 1027  apt-get find
+ 1028  apt search openttd=1.11.*
+ 1029  apt-get openttd=1.11.*
+ 1030  apt-get install openttd=1.11.2
+ 1031  sudo apt-get install openttd=1.11.2
+ 1032  sudo apt-get install openttd=1.11.*
+ 1033  sudo apt-get install openttd=1.11
+ 1034  sudo apt-get show
+ 1035  sudo apt-get 
+ 1036  sudo apt-get delete
+ 1037  sudo apt-get delete openttd
+ 1038  sudo apt-get remove openttd
+ 1039  rm -rf ./openttd
+ 1040  sudo rm -rf ./openttd
+ 1041  ls -a
+ 1042  ls
+ 1043  apt uninstall openttd
+ 1044  apt remove openttd
+ 1045  sudo apt remove openttd
+ 1046  sudo apt remove openttd-data
+ 1047  ды
+ 1048  ls
+ 1049  cd InnoStudies/
+ 1050  ls
+ 1051  cd Internship\ 2020/
+ 1052  ls
+ 1053  vlc openaigym.video.0.14220.video000120.mp4 
+ 1054  ls
+ 1055  ls 
+ 1056  cd Downloads/
+ 1057  g==
+ 1058  g++
+ 1059  g++ yaroslav_kim.cpp 
+ 1060  ls 
+ 1061  cd Downloads/
+ 1062  g++ 
+ 1063  man g++
+ 1064  /home/justsomedude/Downloads/yaroslav_kim.cpp
+ 1065  cd Doen
+ 1066  cd Downloads/
+ 1067  g++ yaroslav_kim.cpp 
+ 1068  lsof
+ 1069  lsof | grep pcm
+ 1070  whoami
+ 1071  hostname
+ 1072  man man
+ 1073  man --help
+ 1074  less
+ 1075  ls
+ 1076  cd Desktop/
+ 1077  ls
+ 1078  cd DigitalGovernmentKeys/
+ 1079  ls
+ 1080  less AUTH_RSA512_3h3br8383jnvemr844nfduijw3jrnsbubelsemfksm.txt 
+ 1081  head AUTH_RSA512_3h3br8383jnvemr844nfduijw3jrnsbubelsemfksm.txt 
+ 1082  man -h
+ 1083  man -h head
+ 1084  head man -h
+ 1085  man -h | head
+ 1086  man -h | less
+ 1087  man -h | tail
+ 1088  man man > tail
+ 1089  tail
+ 1090  man
+ 1091  1
+ 1092  tail man
+ 1093  man man | tail
+ 1094  ls
+ 1095  jobs
+ 1096  sudo apt-get install git
+ 1097  git
+ 1098  nano
+ 1099  ls
+ 1100  ls -all
+ 1101  nano
+ 1102  bg
+ 1103  man cat
+ 1104  man head
+ 1105  clear
+ 1106  ls
+ 1107  cd Desktop/
+ 1108  ls
+ 1109  touch test.txt
+ 1110  nano test.txt 
+ 1111  cat -n 3 test.txt 
+ 1112  tail -n test.txt
+ 1113  tail -n 3 test.txt
+ 1114  ls
+ 1115  less test.txt 
+ 1116  ls
+ 1117  grep Bob ./test.txt 
+ 1118  grep Bo ./test.txt 
+ 1119  grep a ./test.txt 
+ 1120  .
+ 1121  pwd
+ 1122  ls
+ 1123  pwd -a;;
+ 1124  pwd -a
+ 1125  pwd --help
+ 1126  pwd -P
+ 1127  ls
+ 1128  mkdir OSLab1
+ 1129  ls
+ 1130  mv ./test.txt OSLab1/
+ 1131  ls
+ 1132  cd OSLab1/
+ 1133  mkdir week1
+ 1134  cd week1/
+ 1135  ls
+ 1136  l
+ 1137  cd ..
+ 1138  ls
+ 1139  mv test.txt week1/
+ 1140  ls
+ 1141  cd week1
+ 1142  ls
+ 1143  cd
+ 1144  cd Desktop/OSLab1/week1/
+ 1145  stderr
+ 1146  ls
+ 1147  clear
+ 1148  ls
+ 1149  ls > test.txt 
+ 1150  cat test.txt 
+ 1151  sort
+ 1152  ls
+ 1153  cd
+ 1154  ls
+ 1155  ls | sort | cat
+ 1156  ls
+ 1157  cd Desktop/OSLab1/week1/
+ 1158  ls
+ 1159  cd
+ 1160  ls | sort -r | tail -n 3
+ 1161  bg nano
+ 1162  ls
+ 1163  cd Desktop/OSLab1/week1/
+ 1164  ls
+ 1165  nano &
+ 1166  jobs
+ 1167  fg 1
+ 1168  nano
+ 1169  ls
+ 1170  rm test.txt 
+ 1171  ls
+ 1172  ls /usr/bin
+ 1173  ls /usr/bin | grep gcc | sort -r > ex1.txt
+ 1174  ls
+ 1175  cat ex1.txt 
+ 1176  ls
+ 1177  ls > a.txt
+ 1178  ls
+ 1179  cat a.txt
+ 1180  =
+ 1181  ls = sort
+ 1182  ls
+ 1183  rm a.txt
+ 1184  ls /usr/bin | grep gcc
+ 1185  cd /usr/bin
+ 1186  ls
+ 1187  ls | grep gcc
+ 1188  cd ~/Desktop/OSLab1/week
+ 1189  cd ~/Desktop/OSLab1/week1/
+ 1190  ls
+ 1191  history
+ 1192  history > ex2.txt
+ 1193  nano ex3.sh
+ 1194  ls
+ 1195  sh ex3.sh 
+ 1196  sh ex3.sh
+ 1197  ./ex3.sh
+ 1198  sudo ./ex3.sh
+ 1199  ./ex3.sh
+ 1200  cd
+ 1201  cd Desktop/
+ 1202  ls
+ 1203  ./StartStellaris.sh 
+ 1204  cd OSLab1/week1/
+ 1205  ls
+ 1206  gedit
+ 1207  nano main.c
+ 1208  gcc main.c 
+ 1209  ls
+ 1210  nano a.out
+ 1211  rm a.out
+ 1212  gcc main.c 
+ 1213  ./a.out
+ 1214  ls
+ 1215  rm a.out
+ 1216  gcc main.c > main.out
+ 1217  ls
+ 1218  rm a.out
+ 1219  ./main.ou
+ 1220  ./main.out
+ 1221  rm main.out
+ 1222  ls
+ 1223  sudo apt-get install staruml
+ 1224  ls
+ 1225  cd week1/
+ 1226  ls
+ 1227  sh ex1.sh
+ 1228  sh ex2.sh
+ 1229  history > ex2.sh
+ 1230  history > ex2.txt
+ 1231  sh ex2.sh
+ 1232  history > ex2.txt
