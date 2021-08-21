@@ -1,8 +1,8 @@
 # Note that the output file was moved to
 # the .sh file's directory for ease of use
 
-# mkdir ~/week01
-# cd ~/week01
+mkdir ~/week01
+cd ~/week01
 
 history > ex2.txt
 
