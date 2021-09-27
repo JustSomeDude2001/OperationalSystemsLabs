@@ -46,12 +46,17 @@ void scanProcess(struct Process *target) {
 
 // Comparator for qsort
 int arrivalTimeComp(const struct Process *A, const struct Process *B) {
-    return (A) -> arrivalTime - 
-           (B) -> arrivalTime;
+    if ((A) -> arrivalTime !=
+        (B) -> arrivalTime)
+        return (A) -> arrivalTime - 
+               (B) -> arrivalTime;
+    else 
+        return (A) -> burstTime - 
+               (B) -> burstTime;
 }
 
-// First come first serve implementation.
-void fcfs(struct Process *processes, int n) {
+// Shortest job first implementation.
+void sjf(struct Process *processes, int n) {
 
     qsort (processes, n, sizeof(struct Process), &arrivalTimeComp);
 
@@ -131,7 +136,7 @@ int main() {
         scanProcess(procs + i);
     }   
 
-    fcfs(procs, n);
+    sjf(procs, n);
 
     for (int i = 0; i < n; i++) {
         printProcess(procs + i);
