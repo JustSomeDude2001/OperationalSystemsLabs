@@ -1,0 +1,12 @@
+Physical address is the address in the physical memory, e.g. in your RAM, calculated in
+relation to the start of the memory.
+
+For example, if the atomic page in memory is 4KB, and the whole memory is of the size 32KB,
+there can be 8 pages in memory, each having an address from 0 to 7.
+
+Meanwhile, virtual address is the address of the same page in memory, but calculated from the
+beginning of the virtual memory.
+
+For example, when a program is partially loaded in physical memory, a page can have one physical
+address, and a different virtual address. The first one will depict the address of a page currently
+used in RAM, the other one will depict the address in virtual memory, which is usually emulated on the diskspace.

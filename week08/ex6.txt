@@ -1,0 +1,9 @@
+16 bit virtual addresses -> [0...65535] numbered addresses
+Each page is 8KB = 8192 bytes
+
+16 bits of virtual addresses is enough to address up to 8 pages of 8KB each,
+as all [0...65535] addresses will align with 8 * 8192 possible byte-sized pieces
+of memory.
+
+Hence, the page table will have 8 entries - one for each page, containing a virtual
+and physical address.
