@@ -72,8 +72,9 @@ int countBits(int target) {
 
 int main() {
 
-    int n, m;
-    scanf("%d%d", &n, &m);
+    int n;
+    printf("Input number of pages: ");
+    scanf("%d", &n);
 
     struct pFrame frames[n];
 
@@ -88,9 +89,26 @@ int main() {
     float hit = 0.;
     float miss = 0.;
 
-    for (int i = 0; i < m; i++) {
-        int t, p;
-        scanf("%d%d", &t, &p);
+    char* fileName = malloc(sizeof(char) * 1000);
+    char* outputFileName = malloc(sizeof(char) * 1000);
+    
+    printf("Input file name: ");
+    scanf("%s", fileName);
+    printf("Output file name:");
+    scanf("%s", outputFileName);
+
+    FILE* file = fopen(fileName, "r");
+    FILE* output = fopen(outputFileName, "w");
+
+    int t = 0;
+
+    while(!feof(file)) {
+        int p;
+        fscanf(file, "%d", &p);
+
+        if (p < 0) {
+            break;
+        }
 
         while (lastTime != t) {
             agePages(frames, frames + n);
@@ -99,19 +117,27 @@ int main() {
 
         int pageFound = findPage(p, frames, frames + n);
 
-
         if (pageFound == -1) {
-            printf("0\n");
             int oldestPageIndex = findOldestPage(frames, frames + n); 
-            //printf("\nPutting in the frame %d, where was page %d\n", oldestPageIndex, 
-            //                                                         (frames + oldestPageIndex) -> page);
+            if ((frames + oldestPageIndex) -> page == -1) {
+                fprintf(output, "\nPutting the page %d in the frame %d, where was no page\n", 
+                       p, oldestPageIndex);    
+            } else {
+                fprintf(output, "\nPutting the page %d in the frame %d, where was page %d\n", 
+                       p, oldestPageIndex, (frames + oldestPageIndex) -> page);
+            }
             loadPage(p, frames + findOldestPage(frames, frames + n));
             miss += 1.0;
         } else {
-            printf("1\n");
             frames[pageFound].counter |= (1 << 8);
+            fprintf(output, "\nPage %d hit on frame %d\n", p, pageFound);
             hit += 1.0;
         }
+        t++;
     }
-    printf("%f", hit / miss);
+
+    fprintf(output, "Hit/Miss rate: %f", hit / miss);
+
+    fclose(file);
+    fclose(output);
 }

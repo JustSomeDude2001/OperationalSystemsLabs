@@ -1,0 +1,5 @@
+The worst hit rate is reached by distancing same page calls away from each other, 
+so that when a page is required again, it is most likely unloaded already.
+
+The best hit rate is reached by doing the opposite - put the same page calls together,
+so that the pages are most likely loaded when they are needed again.
