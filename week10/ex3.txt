@@ -1,0 +1,3 @@
+mode of '_ex3.txt' changed from 0775 (rwxrwxr-x) to 0664 (rw-rw-r--)
+mode of '_ex3.txt' changed from 0664 (rw-rw-r--) to 0775 (rwxrwxr-x)
+mode of '_ex3.txt' retained as 0775 (rwxrwxr-x)
