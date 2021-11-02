@@ -2,6 +2,7 @@
     "files.associations": {
         "string.h": "c",
         "memory.h": "c",
-        "pthread.h": "c"
+        "pthread.h": "c",
+        "dirent.h": "c"
     }
 }

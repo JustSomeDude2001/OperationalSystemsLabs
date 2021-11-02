@@ -19,10 +19,10 @@ int main() {
 
     struct dirent *directory_data;
     
-    directory = opendir("./tmp");
+    directory = opendir(".");
     
     while ((directory_data = readdir(directory)) != NULL) {
-        printf("%s ", directory_data -> d_name);
+        printf("%s\n", directory_data -> d_name);
     }
 
     closedir(directory);
