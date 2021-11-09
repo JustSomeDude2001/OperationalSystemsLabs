@@ -7,9 +7,9 @@ sudo mount ${ULOOP} lofsdisk/
 
 sudo chmod 777 lofsdisk
 
-sudo cp -r /lib/x86_64-linux-gnu lofsdisk/lib
-sudo cp -r /lib64 lofsdisk
-sudo cp -r /bin lofsdisk
+sudo cp -ar /lib/x86_64-linux-gnu lofsdisk/lib
+sudo cp -ar /lib64 lofsdisk
+sudo cp -ar /bin/bash lofsdisk/bin
 sudo cp ex2 lofsdisk
 sudo chroot lofsdisk
 ex2 > ex2.txt
