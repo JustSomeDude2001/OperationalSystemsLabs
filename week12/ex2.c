@@ -42,5 +42,9 @@ int main() {
             fprintf(output, "PRESSED - %x (%d)\n", ie.code, ie.code);
             fflush(output);
         }
+        if (ie.value == EV_REL) {
+            fprintf(output, "RELEASED - %x (%d)\n", ie.code, ie.code);
+            fflush(output);
+        }
     }
 }
