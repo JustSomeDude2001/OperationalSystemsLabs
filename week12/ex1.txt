@@ -3,7 +3,7 @@ dma 1 is direct memory access controller. Most likely used for management of IO 
 
 0020-0021 : pic1
 
-Peripheral interface controller. Most likely used for miscellaneous IO devices (e.g. Headphones).
+programmable interrupt controller. Helps CPU to handle direct interrupts from either DMA, or other devices that use interrupts to communicate with the system.
 
 0050-0053 : timer1
 
