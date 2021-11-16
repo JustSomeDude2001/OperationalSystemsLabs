@@ -1,0 +1,14 @@
+Recovery does not require resource-heavy solutions, as you just need to make snapshots
+of the system activity. This is best suited for personal computers, which
+tend to be used for a wide variety of activities.
+
+Avoidance is best for highly specialized hardware, as it is well-known in advance how the
+processes done on the machine will behave. By analyzing the problems solved by the machine,
+one can avoid deadlocks by exploiting their behavior.
+
+Deadlock prevention by breaking one of the wait conditions is a solution better suited
+for systems with no right to be deadlocked - radar systems, surveilance face recognition,
+All of these systems cannot spend time for process rollback,
+nor is it possible to use avoidance, as the software tends to be too complex to predict
+completely. Hence why it is best to prevent deadlocks, mostly by spooling or making sure
+that processes don't get stuck deadlocked.
